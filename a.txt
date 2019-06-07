@@ -1,1 +1,2 @@
 Hi im text file a, and I like cats !
+I also like dogs !
